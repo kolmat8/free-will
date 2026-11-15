@@ -11,4 +11,6 @@
 - privacy without security is contradictory, any privacy you have is lost if you have bad security. the second a program you run is exploited or winds up being malicious your data is in the hands of some unknown third party. it's strongly encouraged to harden devices, use strong passwords and avoid software that has more secure alternatives - (S) tagy
 
 ## a great man once said:
-> "you have nothing if you have no rights"
+> ["you have nothing if you have no rights"](https://www.youtube.com/watch?v=3RChSnMxiJE&t=22s).
+
+- i know this comes from a politically motivated song but you must understand that you don't need to align ideologically to appreciate it. without tolerating others opinions we would therefore be oppressing others freedom and right to expression - (S) tagy
