@@ -5,8 +5,7 @@
 - <b>ADVICE 2 Electric Boogaloo:</b> make a website that's only for fun, examples are in [the useless web](https://theuselessweb.com)
 - <b>ADVICE 3 threesome tango:</b> If you make something using an electron wrapper, I will slaughter your family.
 
-# ADVICE PAST THIS POINT ISN'T MINE, SUBJECTIVE THINGS MUST CONTAIN (S) OTHERWISE IT WON'T BE ACCEPTED
-## you can add credits at the end if you want :)
+# ADVICE PAST THIS POINT ISN'T MINE, SUBJECTIVE THINGS MUST CONTAIN (S) OTHERWISE IT WON'T BE ACCEPTED (you can add credits at the end if you want)
 
 # security 
 - privacy without security is contradictory, any privacy you have is lost if you have bad security. the second a program you run is exploited or winds up being malicious your data is in the hands of some unknown third party. it's strongly encouraged to harden devices, use strong passwords and avoid software that has more secure alternatives - (S) tagy
