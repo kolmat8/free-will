@@ -3,6 +3,7 @@
   <p>an example could be to just copy this repo and make your own! i'm not stopping you :)</p>
   <p>(though it would still be cool if you'd help this one! :D)</p>
 - <b>ADVICE 2 Electric Boogaloo:</b> make a website that's only for fun, examples are in [the useless web](https://theuselessweb.com)
+- <b>ADVICE 3 threesome tango:</b> If you make something using an electron wrapper, I will slaughter your family.
 
 # ADVICE PAST THIS POINT ISN'T MINE, SUBJECTIVE THINGS MUST CONTAIN (S) OTHERWISE IT WON'T BE ACCEPTED
 ## you can add credits at the end if you want :)
